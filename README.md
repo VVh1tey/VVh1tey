@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: A bachelor's thesis project on resume analytics.<br>🌱 I’m currently learning: Tableau, Power BI, and advanced techniques in Python and SQL.
+🔭 I’m currently working on: A bachelor's thesis project on resume analytics.<br>🌱 I’m currently learning: Power BI, and advanced techniques in Python and SQL.
 
 
 # 💻 Tech Stack:
